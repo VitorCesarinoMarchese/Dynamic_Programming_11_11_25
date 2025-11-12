@@ -5,9 +5,9 @@ O programa lê os dados de um catálogo em JSON e permite ao usuário interagir 
 
 ## Integrantes do Grupo
 
-Vitor Cesarino Marchese - RM 554893
-Matheus Hisamoto de Souza - RM 555447
-Ali Andrea Mamani Molle - RM 558052
+- Vitor Cesarino Marchese - RM 554893
+- Matheus Hisamoto de Souza - RM 555447
+- Ali Andrea Mamani Molle - RM 558052
 
 ## Vídeo de Apresentação
 
